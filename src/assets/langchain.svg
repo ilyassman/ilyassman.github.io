@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">LangChain</title>
+  <g fill="none" stroke="#1c3c3c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M25 18 18 11a10 10 0 0 0-14 14l11 11a10 10 0 0 0 14 0l5-5"/>
+    <path d="m39 46 7 7a10 10 0 0 0 14-14L49 28a10 10 0 0 0-14 0l-5 5"/>
+    <path d="m22 42 20-20"/>
+  </g>
+</svg>
